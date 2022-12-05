@@ -1,0 +1,11 @@
+name: "sc"
+displayName: "Space Research"
+author: "koctz34"
+main: "sc.SCMod"
+subtitle: "In pre-alpha"
+description: "Mod add new planets and content"
+version: "pre-alpha"
+minGameVersion: 140
+java: true
+hidden: false
+hideBrowser: true
